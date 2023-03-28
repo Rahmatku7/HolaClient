@@ -41,10 +41,6 @@
 
 <strong>1</strong>  Point the domain to your VPS IP address using DNS manager.(Ex. point client.example.com  to 127.0.0.0).
 <strong>2</strong>  Run these codes on your vps.
-<strong>3</strong>  `apt install nginx && apt install certbot`
-<strong>4</strong>  `ufw allow 80` and `ufw allow 443`
-<strong>5</strong>  `certbot certonly -d <domain>`
-<strong>6</strong>  `nano /etc/nginx/sites-enabled/hclient.conf`
    </ul>
 
     apt install nginx && apt install certbot
