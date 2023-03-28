@@ -95,3 +95,6 @@ location / {
 <img src="https://media.discordapp.net/attachments/1082635734164455424/1090156963171668028/image.png?width=1369&height=670">
 <br/>
 <hr>
+## :clap:  Demo
+Check out our host which uses HolaClient https://client.ezayhost.tech<br/>
+<br/>
