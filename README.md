@@ -46,7 +46,6 @@
 <strong>5</strong>  `certbot certonly -d <domain>`
 <strong>6</strong>  `nano /etc/nginx/sites-enabled/hclient.conf`
    </ul>
-               ```
 
     server_name <domain>;
 ```
