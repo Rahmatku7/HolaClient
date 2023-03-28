@@ -47,6 +47,10 @@
 <strong>6</strong>  `nano /etc/nginx/sites-enabled/hclient.conf`
    </ul>
 
-    server_name <domain>;
+    apt install nginx && apt install certbot
+   ufw allow 80
+   ufw allow 443
+   certbot certonly -d <domain>
+   nano /etc/nginx/sites-enabled/hclient.conf
 ```
                
