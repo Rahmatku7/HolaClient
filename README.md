@@ -40,6 +40,7 @@
 <ul dir="auto">
 
 <strong>1</strong>  Point the domain to your VPS IP address using DNS manager.(Ex. point client.example.com  to 127.0.0.0).
+   <br>
 <strong>2</strong>  Run these codes on your vps.
    </ul>
 
