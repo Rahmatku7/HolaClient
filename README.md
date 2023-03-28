@@ -92,5 +92,5 @@ location / {
 <img src="https://user-images.githubusercontent.com/102372274/228143214-9d186a1e-be8e-4960-a85b-6cead0278c83.png?width=1369&height=670">
                <br>
 <p dir="auto">Server Creation:</p>
-<img src="https://media.discordapp.net/attachments/1082635734164455424/1090156963171668028/image.png?width=916&height=403">
+<img src="https://media.discordapp.net/attachments/1082635734164455424/1090156963171668028/image.png?width=1369&height=670">
 <br/><br/><br/>
