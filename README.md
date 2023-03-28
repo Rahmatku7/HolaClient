@@ -13,6 +13,7 @@
 <li>Bandwidth Sharing</li>
 <li>Background Wallpaper</li>
 <li>Resource Management</li>
+<li>Mobile Optimized</li>
 <li>Coins</li>
 <li>Coupons</li>
 <li>Servers</li>
