@@ -89,7 +89,6 @@ location / {
 <hr>               
 <h2 tabindex="-1" dir="auto"><a id="user-content-zap--fast-implementation" class="anchor" aria-hidden="true" href="#zap--fast-implementation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">👀</g-emoji>  Preview</h2>
 <p dir="auto">HolaClient:</p>
-![unknown](https://media.discordapp.net/attachments/1082635734164455424/1090141940785360966/image.png?width=1369&height=670)
-![unknown](https://media.discordapp.net/attachments/984837636457918466/1071200240096510022/Screenshot_2023-02-03_234546.png?width=1351&height=670)
-![unknown](https://media.discordapp.net/attachments/984837636457918465/1007085166562398228/unknown.png?width=1369&height=670)
+![image](https://user-images.githubusercontent.com/102372274/228143214-9d186a1e-be8e-4960-a85b-6cead0278c83.png)
+
 <br/><br/><br/>
