@@ -52,5 +52,5 @@
    
     certbot certonly -d <domain>
    
-    nano /etc/nginx/sites-enabled/hclient.conf
+    nano /etc/nginx/sites-enabled/hclient.conf```
                
