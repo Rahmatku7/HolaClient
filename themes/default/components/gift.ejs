@@ -70,13 +70,8 @@
     let coins = encodeURIComponent(document.getElementById("InputCoins").value);
     document.location.href = `/giftcoins?id=${id}&coins=${coins}`;
     let id = encodeURIComponent(document.getElementById("InputID").value);
-    <% if (settings.resources.type == "GB") { %>
-      let ram = encodeURIComponent(document.getElementById("InputRAM").value * 1024);
-      let disk = encodeURIComponent(document.getElementById("InputDisk").value * 1024);
-    <% } else { %>
       let ram = encodeURIComponent(document.getElementById("InputRAM").value);
       let disk = encodeURIComponent(document.getElementById("InputDisk").value);
-    <% } %>
     let cpu = encodeURIComponent(document.getElementById("InputCPU").value);
     let servers = encodeURIComponent(document.getElementById("InputServers").value);
     document.location.href = `/giftres?id=${id}&ram=${ram}&disk=${disk}&cpu=${cpu}&servers=${servers}`;
