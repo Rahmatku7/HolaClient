@@ -40,19 +40,19 @@
               <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputCPU" placeholder="100">
             </div>
             <div class="form-group">
-              <label style="color:white" for="InputRAM">RAM (<% if (settings.resources.type == "GB") { %>In GB<% } else { %>In MBs<% } %>):</label>
-              <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputRAM" placeholder="<% if (settings.resources.type == "GB") { %>2<% } else { %>2048<% } %>">
+              <label style="color:white" for="InputRAM">RAM (In MB):</label>
+              <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputRAM" placeholder="2048">
             </div>
             <div class="form-group">
-              <label style="color:white" for="InputDisk">Disk (<% if (settings.resources.type == "GB") { %>In GBs<% } else { %>In MB<% } %>):</label>
-              <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputDisk" placeholder="<% if (settings.resources.type == "GB") { %>10<% } else { %>10240<% } %>">
+              <label style="color:white" for="InputDisk">Disk (In MB):</label>
+              <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputDisk" placeholder="10240">
             </div>
             <div class="form-group">
               <label style="color:white" for="InputDisk">Servers:</label>
               <input style="border-radius: 15px; padding: 8px; background-color: rgba(165, 165, 165, 0.315); color: white; border-color: transparent;" type="number" class="form-control" id="InputServers" placeholder="2">
             </div>
             <br>
-           <a role="button" style="background-color: gray; color:white" class="btn btn-lg" onclick="submitGift()" href="javascript: submitGift()">Gift</a>
+           <button role="button" style="background-color: gray; color:white" class="btn btn-lg" onclick="submitGift()" href="javascript: submitGift()">Gift</button>
           </form>
         </div>
       </div>
